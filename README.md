@@ -1,2 +1,1 @@
-# RestaurantWebsite
-HTML, CSS, Javascript
+# Restaurant-Website
